@@ -1,3 +1,3 @@
-# Final-Assignment-Instructions: Create and Share Your Jupyter Notebook
+# Hands-on Lab: Create your Jupyter Notebook
 
 
